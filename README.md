@@ -1,5 +1,5 @@
 # Excel Salary Dashboard
-Special Thanks:- Luke Barousse for bringing this great content and helping me leard and dvelop my data analyst skills with this project
+Special Thanks:- Luke Barousse for bringing this great content and helping me learn and develop my Data Analyst skills with this project
 ![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
